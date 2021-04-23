@@ -32,3 +32,6 @@ this is result
 	setTimeout("doStuff('" + someValue + "')", 1000)
 </script>
 ```
+
+# What is HSTS ?
+Hypertext Strict Transport Security is forced to use TLS policy mechanism
